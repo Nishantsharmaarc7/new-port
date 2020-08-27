@@ -1,7 +1,6 @@
 body{
-  background-attachment: fixed;
+  background-attachment:fixed;
   background :url('matteblack.jpg');
- 
 
 }
 .first{
@@ -14,13 +13,62 @@ body{
 }
 #mypic{
   position: absolute;
+  float: left;
   top:250px ;
   left: 250px ;
 }
 #codepic{
-  position: absolute;
+  position:absolute;
   top: 210px;
   right: 130px;
   width: 280px;
   height: 250px;
+}
+#whtcnido{
+  font-size: 40px;
+  color: aqua;
+  font-family: 'Indie Flower' , cursive ;
+  position: absolute;
+  top: 750px;
+  margin: auto;
+  left: 600px;
+}
+
+#firstline{
+width: 1000px;
+border-style: dashed;
+position: absolute;
+left: 250px;
+top: 700px;
+}
+
+#rickdancing{
+  position: absolute;
+ top: 900px;
+ right: 800px;
+}
+#javad{
+  position: absolute;
+  top: 900px;
+  right: 30px;
+  width: 700px;
+  color: #ffffff;
+  font-size: 30px;
+ 
+  font-family: 'Indie Flower' , cursive ;
+ 
+}
+#webd{
+  color: rgb(129, 35, 216);
+  text-align: center;
+  font-size: 27px;
+  font-family: 'Indie Flower' , cursive ;
+  width: 550px;
+  position: absolute;
+  top: 1500px;
+}
+#wubba{
+  position: absolute;
+  top: 1700px;  
+  right: 50px;
 }
